@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      "expo-asset"
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
